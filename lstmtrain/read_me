@@ -1,0 +1,8 @@
+Intro-
+The python script trains an LSTM model and shows test results also.  
+
+note-
+
+* Edit the file for changing number of layers, size of hidden units, batch size etc
+
+ 
