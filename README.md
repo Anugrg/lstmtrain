@@ -1,6 +1,6 @@
 # lstmtrain
 
-Script for Master's Thesis Video detection of elderly falls using LSTM
+Script for Master's Thesis on Video Detection of Elderly falls using LSTM on an Embedded Device
 
 The script I used for training an LSTM models on skeleton keypoints acquired using openpose.
 
